@@ -1,0 +1,18 @@
+----------------> News Update <----------------------
+
+Welcome to my software. Dont forget to Vote for me. Of you think this is
+a rubbish software then tell me why it is and i will improve it. This space is
+actually meant for news of new software and its features.
+===================
+don forget to vote for me
+===================
+
+this file you are seeing is in "files" folder. You may change the link  from 'FILE://"
+to "Http://". 
+
+Note: you may also use html extension but don't  this in html editors because all the
+tags are seen. Type anything you want but do it in notepad ans save it as *.html.
+
+And one important thing: Don forget to vote for me
+
+Email me for free wares, questions: Sriharish@msn.com
